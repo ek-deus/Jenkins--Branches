@@ -1,0 +1,9 @@
+https://github.com/ek-deus/Ansible.git
+https://github.com/ek-deus/Terraform.git
+https://github.com/ek-deus/k3s--jenkins.git
+https://github.com/ek-deus/Ansible--GitLabCI.git
+https://github.com/ek-deus/jenkins--shared--libs--base.git
+https://github.com/ek-deus/Project-temps.git
+https://github.com/ek-deus/Gitea.git
+https://github.com/ek-deus/Docker--Dockerfile.git
+https://github.com/ek-deus/k3s-developers.git
